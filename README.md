@@ -13,7 +13,7 @@
 8.  [Tools](#tools) 
 
 ### Project Overview
-This project aims to provide actionable insights on the client churn of a bank over the period of a month. By analyzing different aspects of the data, we seek to identify trends, key factors influencing client churn, make data-backed recommendations, and assist the company in retaining more clients.
+This project aims to provide actionable insights on the client churn of a bank over the period of a month. By analysing different aspects of the data, we seek to identify trends, key factors influencing client churn, make data-backed recommendations, and assist the company in retaining more clients.
 
 ### Data Source
 Bank Customer Churn: The dataset used for this project is Customer-Churn-Records.csv, the dataset contains information on the client's who've left the bank. This dataset was found on Kaggle: [click here](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn)
