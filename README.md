@@ -1,18 +1,24 @@
 # Bank Client Churn Analysis 
 
+![Picture8](https://github.com/user-attachments/assets/f297ee7c-a453-4f8e-a574-0b52f0798392)
+
 ### Project Overview
 This project aims to provide actionable insights on the client churn of a bank. By analyzing different aspects of the data, we seek to identify trends, key factors influencing client churn, make data-backed recommendations, and assist the company in retaining more clients.
 
 ### Data Source
-Bank Customer Churn: The dataset used for this project is Customer-Churn-Records.csv, the dataset contains information on the client's who've left the bank. This dataset was found on [click here](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn)
+Bank Customer Churn: The dataset used for this project is Customer-Churn-Records.csv, the dataset contains information on the client's who've left the bank. This dataset was found on Kaggle: [click here](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn)
 
 ### Data Cleaning Process
 I first loaded the dataset into excel, then converted it from a csv to a xlsx file for better viewing. The next step was to remove duplicates and blanks, then I did some column formatting and ensured that the correct data types were used. The last step was to do a thorough spell check on all the columns.
 
-Before
-![Image](https://github.com/user-attachments/assets/1b207297-bdd6-4f18-83c1-b4bfb4684a34)
+#### Before cleaning:
 
-After
+![Image](https://github.com/user-attachments/assets/020b17d6-45f1-4c62-b4e4-eaaf5bcf3246)
+
+
+#### After cleaning:
+
+![Image](https://github.com/user-attachments/assets/ccbe9c5f-4425-4e82-b687-d6cc4da46505)
 
 
 ### Exploratory Data Analysis
