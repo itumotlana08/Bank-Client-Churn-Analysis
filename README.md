@@ -9,6 +9,12 @@ Bank Customer Churn: The dataset used for this project is Customer-Churn-Records
 ### Data Cleaning Process
 I first loaded the dataset into excel, then converted it from a csv to a xlsx file for better viewing. The next step was to remove duplicates and blanks, then I did some column formatting and ensured that the correct data types were used. The last step was to do a thorough spell check on all the columns.
 
+Before
+![Image](https://github.com/user-attachments/assets/1b207297-bdd6-4f18-83c1-b4bfb4684a34)
+
+After
+
+
 ### Exploratory Data Analysis
 EDA involved exploring our dataset to answer these questions:
 1. What are the genders and ages of the clients who've left the bank?
