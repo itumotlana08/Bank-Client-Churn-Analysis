@@ -9,7 +9,6 @@ Bank Customer Churn: The dataset used for this project is Customer-Churn-Records
 ### Data Cleaning Process
 I first loaded the dataset into excel, then converted it from a csv to a xlsx file for better viewing. The next step was to remove duplicates and blanks, then I did some column formatting and ensured that the correct data types were used. The last step was to do a thorough spell check on all the columns.
 
-
 ### Exploratory Data Analysis
 EDA involved exploring our dataset to answer these questions:
 1. What are the genders and ages of the clients who've left the bank?
@@ -18,6 +17,15 @@ EDA involved exploring our dataset to answer these questions:
 4. What percentage of the clients who've complained, eventually ended up leaving the bank?
 
 ### Data Analysis
+
+#### Analysing Churn By Age And Gender
+In order to figure this one out, I made use of the "Exited", "Age", and "Gender" columns. The issue is that the "Age" column had to be modified if we were going to have a visualization that would be pleasing to the eye, individuals had to be grouped into their age categories to avoid having a visualization that represented every individual age. To achieve this, I made use of the binning function in power BI to create 10 groups of similar ages.
+
+#### Analysing Churn By Client's Card Type
+To answer this question, we needed two data points, "card type" and "total client churn", the issue is that we didn't have the total number of client's who've left in our dataset as it was, so to solve this problem, I made use of DAX in power BI to create a measure of the total client churn, this was achieved by using the SUM() function.
+
+#### Analysing Percentage Of Complainant's Who Eventually Left
+Last but not least, in order to get to the bottom of this question, a value couldn't simply be pulled from the dataset, so I again made use of Power BI's language 'DAX' to create a new measure. I then formatted the result to be displayed as a percentage.
 
 ### Results And Insights
 
