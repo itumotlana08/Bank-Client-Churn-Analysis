@@ -87,7 +87,7 @@ Complainant's Who Left = SUM(Customer_Churn_Records[Exited])/SUM(Customer_Churn_
 
 ![Picture17](https://github.com/user-attachments/assets/70ba3dc6-0ff2-4191-9418-4dd6c47b1efe)
 
-[Clich Here To View In Power BI]()
+[Clich Here To View In Power BI](https://github.com/itumotlana08/Bank-Client-Churn-Analysis/blob/main/Bank_Client_Churn_Analysis.pbix)
 
 ### Recommendations
 - I recommend that the customer service department should conduct a survey for churned female clients to better understand their reasons for leaving the bank. This survey can help the company better understand if the issue is with customer service, pricing, a lack of desired features or something else.
